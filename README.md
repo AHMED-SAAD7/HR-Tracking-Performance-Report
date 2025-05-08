@@ -24,3 +24,13 @@ Targeted retention plans for at-risk groups
 Optimization of hiring and onboarding policies
 
 Support for data-driven workforce planning
+### Data Validation
+To ensure the accuracy and integrity of the data presented in the dashboard, a SQL query file is included. This file contains the scripts used for:
+
+Validating raw data inputs
+
+Verifying calculated metrics
+
+Cross-checking data consistency across loan attributes
+
+Using SQL for validation provides a reliable layer of data quality assurance before insights are visualized in Power BI.
