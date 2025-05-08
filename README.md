@@ -1,4 +1,4 @@
-# HR-Tracking-Performance-Report 
+# HR-Tracking-Performance-Report (Power bi + SQL)
 This interactive Power BI dashboard provides a deep-dive into employee performance, attrition patterns, and job satisfaction levels within an organization. The goal is to support HR decision-making by identifying trends, high-risk employee segments, and areas for workplace improvement.
 
 ### Key Features
