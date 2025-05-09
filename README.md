@@ -31,6 +31,6 @@ Validating raw data inputs
 
 Verifying calculated metrics
 
-Cross-checking data consistency across loan attributes
+Cross-checking data consistency across employees attributes
 
 Using SQL for validation provides a reliable layer of data quality assurance before insights are visualized in Power BI.
